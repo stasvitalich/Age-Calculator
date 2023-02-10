@@ -7,4 +7,5 @@
     <string name="DateByDefault">01/01/2000</string>
     <string name="YourAgeMin">Your Age In Minutes</string>
     <string name="MinByDefault">12000000</string>
+    <string name="NotBorn">You are not born yet!</string>
 </resources>

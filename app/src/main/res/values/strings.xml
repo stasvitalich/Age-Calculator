@@ -3,4 +3,8 @@
     <string name="Calculate">CALCULATE YOUR AGE</string>
     <string name="InMinutes">IN MINUTES</string>
     <string name="Select">SELECT YOUR BIRTHDAY</string>
+    <string name="SelectedDate">Selected Date</string>
+    <string name="DateByDefault">01/01/2000</string>
+    <string name="YourAgeMin">Your Age In Minutes</string>
+    <string name="MinByDefault">12000000</string>
 </resources>

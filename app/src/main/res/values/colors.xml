@@ -10,4 +10,5 @@
     <color name="Theme">#f6bd60</color>
     <color name="Background">#F7EDE2</color>
     <color name="MainTextColor">#84a59d</color>
+    <color name="TextBackGround">#f28482</color>
 </resources>
